@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Tue Oct  4 17:54:10 2022
+# Process ID: 20168
+# Current directory: D:/FPGA/gates2/gates2.runs/synth_1
+# Command line: vivado.exe -log gates2.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source gates2.tcl
+# Log file: D:/FPGA/gates2/gates2.runs/synth_1/gates2.vds
+# Journal file: D:/FPGA/gates2/gates2.runs/synth_1\vivado.jou
+# Running On: 603-21, OS: Windows, CPU Frequency: 2304 MHz, CPU Physical cores: 4, Host memory: 8499 MB
+#-----------------------------------------------------------
+source gates2.tcl -notrace
