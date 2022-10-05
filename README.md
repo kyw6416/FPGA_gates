@@ -1,0 +1,2 @@
+# FPGA_gates
+AND, NAND, OR, NOR, XOR, NOT
